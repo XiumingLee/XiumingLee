@@ -1,4 +1,4 @@
-### 💪😄 程序技艺师<a href="https://github.com/XiumingLee"><img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/rust-java.svg" align="right" width="22%"/></a>
+### 💪😄 程序技艺师 <img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/ferris.gif" alt="Xiuming's Used Languages" style="zoom:18%;" /><a href="https://github.com/XiumingLee"><img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/rust-java.svg" align="right" width="22%"/></a>
 
 - **`Java`** & **`Rust`**
 
@@ -9,7 +9,6 @@
 
 | [![Xiuming's Github Stats](https://github-readme-stats.vercel.app/api?username=Xiuminglee&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs)](https://github.com/XiumingLee) | [![Xiuming's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiuminglee&count_private=true&layout=compact&theme=buefy&hide_border=true)](https://github.com/XiumingLee) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-
 
 <!--
 
