@@ -1,4 +1,4 @@
-### 💪😄 程序技艺师<a href="https://github.com/XiumingLee/"><img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/rust-java.svg" align="right" width="22%"/></a>
+### 💪😄 程序技艺师<a href="https://github.com/XiumingLee"><img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/rust-java.svg" align="right" width="22%"/></a>
 
 - **`Java`** & **`Rust`**
 
@@ -7,8 +7,9 @@
 - 对于企业级分布式、微服务、大数据分析、领域驱动、低代码和边缘计算架构等有一线研发经验。 
 - 对业界新技术敏感，喜欢钻研，热衷技术分享。
 
-| <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Xiuminglee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs" alt="sunface's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiuminglee&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+| [![Xiuming's Github Stats](https://github-readme-stats.vercel.app/api?username=Xiuminglee&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs)](https://github.com/XiumingLee) | [![Xiuming's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiuminglee&count_private=true&layout=compact&theme=buefy&hide_border=true)](https://github.com/XiumingLee) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 
 <!--
 
