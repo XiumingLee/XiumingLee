@@ -2,9 +2,9 @@
 
 - **`Java`** & **`Rust`**
 
-- 持续学习者，高级软件工程师、架构师，主攻后端Java高性能集群和架构领域。 
-- 对Java编程主流框架Spring、Spring Boot、Netty源码有较深的研究。
-- 对于企业级分布式、微服务、大数据分析、领域驱动、低代码和边缘计算架构等有一线研发经验。 
+- 持续学习者，高级软件工程师、架构师，主攻服务端高性能集群和架构领域。 
+- 对Spring、Spring Boot、Netty等主流框架的源码有较深的研究。
+- 对于企业级分布式、微服务、大数据分析、领域驱动、低代码架构等有一线研发经验。 
 - 对业界新技术敏感，喜欢钻研，热衷技术分享。
 
 | [![Xiuming's Github Stats](https://github-readme-stats.vercel.app/api?username=Xiuminglee&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs)](https://github.com/XiumingLee) | [![Xiuming's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiuminglee&count_private=true&layout=compact&theme=buefy&hide_border=true)](https://github.com/XiumingLee) |
