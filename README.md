@@ -1,4 +1,4 @@
-### 💪😄 程序技艺师 <img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/ferris.gif" alt="Xiuming's Used Languages" style="zoom:18%;" /><a href="https://github.com/XiumingLee"><img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/rust-java.svg" align="right" width="22%"/></a>
+### 💪😄 程序技艺师 <img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/ferris.gif"  width="10%" /><a href="https://github.com/XiumingLee"><img src="https://ming-note0imge.oss-cn-qingdao.aliyuncs.com/img/rust-java.svg" align="right" width="22%"/></a>
 
 - **`Java`** & **`Rust`**
 
