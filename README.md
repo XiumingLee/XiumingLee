@@ -7,7 +7,7 @@
 - 对于企业级分布式、微服务、大数据分析、领域驱动、低代码架构等有一线研发经验。 
 - 对业界新技术敏感，喜欢钻研，热衷技术分享。
 
-| [![Xiuming's Github Stats](https://github-readme-stats.vercel.app/api?username=Xiuminglee&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs)](https://github.com/XiumingLee) | [![Xiuming's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiuminglee&count_private=true&layout=compact&theme=buefy&hide_border=true&hide=CSS,HTML,Vue,Python,Batchfile)](https://github.com/XiumingLee) |
+| [![Xiuming's Github Stats](https://github-readme-stats.vercel.app/api?username=Xiuminglee&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,contribs)](https://github.com/XiumingLee) | [![Xiuming's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiuminglee&count_private=true&layout=compact&theme=buefy&hide_border=true&hide=CSS,HTML,Vue,Python,Batchfile&langs_count=3)](https://github.com/XiumingLee) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 <!--
